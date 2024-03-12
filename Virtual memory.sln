@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual memory", "Virtual memory.csproj", "{5649E329-B27B-4366-9345-BC41B5696603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5649E329-B27B-4366-9345-BC41B5696603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5649E329-B27B-4366-9345-BC41B5696603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5649E329-B27B-4366-9345-BC41B5696603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5649E329-B27B-4366-9345-BC41B5696603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BF06F4-B9DB-4C09-99F3-221DEA7FC943}
+	EndGlobalSection
+EndGlobal
